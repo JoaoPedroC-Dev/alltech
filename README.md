@@ -4,7 +4,7 @@
 
 ---
 
-## Problemas
+## ❌ Problemas
 
 - Falta de oportunidade;
 - Falta de acesso básico de internet/tecnologia;
@@ -14,7 +14,7 @@
 
 ---
 
-## Propósito
+## ✅ Propósito
 
 - Demonstrar os problemas;
 - Dar dicas de como resolver;
@@ -22,7 +22,7 @@
 
 ---
 
-## Como acessar as rotas
+## 📲 Como acessar as rotas
 
 ### `Get/api/cursos`
 - Mostra cursos gratuitos de tecnologia.
